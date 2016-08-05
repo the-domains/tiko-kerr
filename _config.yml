@@ -1,4 +1,3 @@
-layout_spectrum: 0.24458809266798198
 typography_spectrum: 0.04689527559094131
 color:
   brandStrength: 0.49867085251025856
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.24458809266798198
 name: Tiko Kerr
 title: Visual Artist
+description: ' '
